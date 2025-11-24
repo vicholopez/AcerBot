@@ -1,0 +1,13 @@
+{
+  "name": "acerbot-telegram",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "firebase-admin": "^12.7.0",
+    "telegraf": "^4.16.3"
+  }
+}

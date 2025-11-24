@@ -1,0 +1,9 @@
+{
+  "name": "simuladores",
+  "version": "1.0.0",
+  "main": "gps.js",
+  "scripts": {
+    "start": "node gps.js"
+  },
+  "license": "ISC"
+}
